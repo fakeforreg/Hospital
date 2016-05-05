@@ -2,9 +2,12 @@
 
 - 1.此项目是从https://github.com/langhua9527/BlackheartedHospital fork过来的一个子项目。
 - 2.TeamDolphin致力于打造一个安全的，干净的手机上网环境。通过这份名单，海豚浏览器旋风版会在用户访问这些莆田医院的网址时弹出警告信息。同时如果用户通过搜索引擎搜到对应的莆田系医院的信息，海豚浏览器旋风版也会给予相应的警告信息。
-- 3.此项目主要针对莆田医院的网址进行完全记录，给用户上网时做参考。
-- 4.此项目提供了一个按省份查询这些医院的开源网站的源码
-- 5.此项目同时提供了查询莆田系网站的第三方接口，接口在代码里找，莆田系医院列表会及时更新
+- 3.此项目提供了通过城市查询莆田系网站的第三方接口，莆田系医院列表会及时更新
+  - 对应的调用方法是:
+     - http://opscn.dolphin-browser.com/dop/hospitalregion.json 查询城市列表
+     - http://opscn.dolphin-browser.com/dop/hospitalsearch.json?c=武汉 通过城市查询对应的莆田系医院的名称
+  - demo.py提供了python的调用示例
+  - src_example 提供了一个查询网站的示例
 
 # 版本1.0beta
 
