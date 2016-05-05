@@ -12,7 +12,7 @@
 
 ![截图](https://github.com/TeamDolphin/BlackheartedHospital/blob/master/img/img1.jpg)
 
-![截图]https://github.com/TeamDolphin/BlackheartedHospital/blob/master/img/img2.jpg)
+![截图](https://github.com/TeamDolphin/BlackheartedHospital/blob/master/img/img2.jpg)
 
 
 # 附莆田系医院列表和对应的网址
