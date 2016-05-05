@@ -1,21 +1,22 @@
 # BlackheartedHospital
 
-- 1.此项目是从https://github.com/langhua9527/BlackheartedHospital fork过来的一个子项目。
+- 1.本项目基于https://github.com/langhua9527/BlackheartedHospital 的公开数据，我们尽可能的补充了医院名称中对应的URL。然后在最新版海豚浏览器的搜索结果页中插入了莆田系医院标记，制作了一个手机在线查询莆田系名单的网页。见 http://cn.news.dolphin.com。现在将数据和网页开源，并公开了数据接口。
 - 2.本项目提供了通过城市查询莆田系网站的第三方接口，用户可以通过本接口直接查询到对应城市的莆田系医院，莆田系医院列表会及时更新
   - 对应的调用方法是:
      - http://opscn.dolphin-browser.com/dop/hospitalregion.json 查询城市列表
-     - http://opscn.dolphin-browser.com/dop/hospitalsearch.json?c=武汉 通过城市查询对应的莆田系医院的名称
+     - http://opscn.dolphin-browser.com/dop/hospitalsearch.json?c=北京 通过城市查询对应的莆田系医院的名称
   - demo.py提供了python的调用示例
-  - src_example 提供了一个查询网站的示例
+  - src_web_example 调用以上接口提供了一个查询网站的示例，示例见截图
+  - src_sosuo_example 提供了一个调用以上接口屏蔽某搜索引擎中对应医疗广告的示例，示例见截图
 - 3.本接口可以用于二次开发
-_ 4.TeamDolphin致力于净化网络环境，给用户提供一个安全可靠的上网环境
-- 5.接口中的医院来源于网络，如果有医院有异议，请直接联系yqliao@bainainfo.com
+- 4.接口中的医院来源于网络，如果有医院有异议，请直接联系alex@dolphin.com
 
 # 版本1.0beta
 
 ## 截图示例
 
 ![截图](https://github.com/TeamDolphin/BlackheartedHospital/blob/master/img/img2.jpg)
+![截图](https://github.com/TeamDolphin/BlackheartedHospital/blob/master/img/img3.jpg)
 
 
 # 附莆田系医院列表和对应的网址
