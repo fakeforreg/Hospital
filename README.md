@@ -13,8 +13,6 @@
 
 ## 截图示例
 
-![截图](https://github.com/TeamDolphin/BlackheartedHospital/blob/master/img/img1.jpg)
-
 ![截图](https://github.com/TeamDolphin/BlackheartedHospital/blob/master/img/img2.jpg)
 
 
