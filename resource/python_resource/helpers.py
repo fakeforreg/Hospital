@@ -8,7 +8,7 @@ which includes the constants and general function(functions that are used cross 
 # -----------------------------------------------------
 HOSPITAL_LIST_BEGIN_SYMBOL = "[](hospital list begin //PLEASE DO NOT DELETE THIS LINE)"
 HOSPITAL_LIST_END_SYMBOL = "[](hospital list end //PLEASE DO NOT DELETE THIS LINE)"
-CHINESE_REGEX_WITH_NUM_LETTER = r'[\u4e00-\u9fffA-Za-z0-9.]+'
+CHINESE_REGEX_WITH_NUM_LETTER = r'[\u4e00-\u9fffA-Za-z0-9.():/?=%]+'
 
 
 # -----------------------------------------------------
