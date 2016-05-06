@@ -24,44 +24,212 @@
 
 # 版本1.2beta
 
+# 目录
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
+- [上海](#%E4%B8%8A%E6%B5%B7)
+- [北京](#%E5%8C%97%E4%BA%AC)
+- [苏州](#%E8%8B%8F%E5%B7%9E)
+- [天津](#%E5%A4%A9%E6%B4%A5)
+- [广州](#%E5%B9%BF%E5%B7%9E)
+- [珠海](#%E7%8F%A0%E6%B5%B7)
+- [惠州](#%E6%83%A0%E5%B7%9E)
+- [中山](#%E4%B8%AD%E5%B1%B1)
+- [汕头](#%E6%B1%95%E5%A4%B4)
+- [东莞](#%E4%B8%9C%E8%8E%9E)
+- [江门](#%E6%B1%9F%E9%97%A8)
+- [肇庆](#%E8%82%87%E5%BA%86)
+- [佛山](#%E4%BD%9B%E5%B1%B1)
+- [深圳](#%E6%B7%B1%E5%9C%B3)
+- [昆明](#%E6%98%86%E6%98%8E)
+- [玉溪](#%E7%8E%89%E6%BA%AA)
+- [普洱](#%E6%99%AE%E6%B4%B1)
+- [文山](#%E6%96%87%E5%B1%B1)
+- [临沧](#%E4%B8%B4%E6%B2%A7)
+- [昭通](#%E6%98%AD%E9%80%9A)
+- [丽江](#%E4%B8%BD%E6%B1%9F)
+- [保山](#%E4%BF%9D%E5%B1%B1)
+- [曲靖](#%E6%9B%B2%E9%9D%96)
+- [重庆](#%E9%87%8D%E5%BA%86)
+- [成都](#%E6%88%90%E9%83%BD)
+- [雅安](#%E9%9B%85%E5%AE%89)
+- [绵阳](#%E7%BB%B5%E9%98%B3)
+- [遵义](#%E9%81%B5%E4%B9%89)
+- [凉山](#%E5%87%89%E5%B1%B1)
+- [南充](#%E5%8D%97%E5%85%85)
+- [乐山](#%E4%B9%90%E5%B1%B1)
+- [福州](#%E7%A6%8F%E5%B7%9E)
+- [舟山](#%E8%88%9F%E5%B1%B1)
+- [厦门](#%E5%8E%A6%E9%97%A8)
+- [莆田](#%E8%8E%86%E7%94%B0)
+- [宁波](#%E5%AE%81%E6%B3%A2)
+- [杭州](#%E6%9D%AD%E5%B7%9E)
+- [湖州](#%E6%B9%96%E5%B7%9E)
+- [泉州](#%E6%B3%89%E5%B7%9E)
+- [金华](#%E9%87%91%E5%8D%8E)
+- [嘉兴](#%E5%98%89%E5%85%B4)
+- [台州](#%E5%8F%B0%E5%B7%9E)
+- [温州](#%E6%B8%A9%E5%B7%9E)
+- [龙岩](#%E9%BE%99%E5%B2%A9)
+- [济南](#%E6%B5%8E%E5%8D%97)
+- [潍坊](#%E6%BD%8D%E5%9D%8A)
+- [青岛](#%E9%9D%92%E5%B2%9B)
+- [德州](#%E5%BE%B7%E5%B7%9E)
+- [威海](#%E5%A8%81%E6%B5%B7)
+- [聊城](#%E8%81%8A%E5%9F%8E)
+- [淄博](#%E6%B7%84%E5%8D%9A)
+- [哈尔滨](#%E5%93%88%E5%B0%94%E6%BB%A8)
+- [长春](#%E9%95%BF%E6%98%A5)
+- [四平](#%E5%9B%9B%E5%B9%B3)
+- [延边](#%E5%BB%B6%E8%BE%B9)
+- [沈阳](#%E6%B2%88%E9%98%B3)
+- [大连](#%E5%A4%A7%E8%BF%9E)
+- [无锡](#%E6%97%A0%E9%94%A1)
+- [南京](#%E5%8D%97%E4%BA%AC)
+- [泰州](#%E6%B3%B0%E5%B7%9E)
+- [盐城](#%E7%9B%90%E5%9F%8E)
+- [宿迁](#%E5%AE%BF%E8%BF%81)
+- [淮安](#%E6%B7%AE%E5%AE%89)
+- [南通](#%E5%8D%97%E9%80%9A)
+- [启东](#%E5%90%AF%E4%B8%9C)
+- [武汉](#%E6%AD%A6%E6%B1%89)
+  - [不孕症](#%E4%B8%8D%E5%AD%95%E7%97%87)
+  - [妇科/产科](#%E5%A6%87%E7%A7%91%E4%BA%A7%E7%A7%91)
+  - [男科](#%E7%94%B7%E7%A7%91)
+  - [综合医院](#%E7%BB%BC%E5%90%88%E5%8C%BB%E9%99%A2)
+  - [整形科](#%E6%95%B4%E5%BD%A2%E7%A7%91)
+  - [专科](#%E4%B8%93%E7%A7%91)
+  - [三甲医院外包科室名单如下](#%E4%B8%89%E7%94%B2%E5%8C%BB%E9%99%A2%E5%A4%96%E5%8C%85%E7%A7%91%E5%AE%A4%E5%90%8D%E5%8D%95%E5%A6%82%E4%B8%8B)
+- [荆州](#%E8%8D%86%E5%B7%9E)
+- [黄冈](#%E9%BB%84%E5%86%88)
+- [黄石](#%E9%BB%84%E7%9F%B3)
+- [襄阳](#%E8%A5%84%E9%98%B3)
+- [乌海](#%E4%B9%8C%E6%B5%B7)
+- [呼和浩特](#%E5%91%BC%E5%92%8C%E6%B5%A9%E7%89%B9)
+- [贵阳](#%E8%B4%B5%E9%98%B3)
+- [铜仁](#%E9%93%9C%E4%BB%81)
+- [安顺](#%E5%AE%89%E9%A1%BA)
+- [毕节](#%E6%AF%95%E8%8A%82)
+- [长沙](#%E9%95%BF%E6%B2%99)
+- [郴州](#%E9%83%B4%E5%B7%9E)
+- [湘潭](#%E6%B9%98%E6%BD%AD)
+- [娄底](#%E5%A8%84%E5%BA%95)
+- [南昌](#%E5%8D%97%E6%98%8C)
+- [九江](#%E4%B9%9D%E6%B1%9F)
+- [吉安](#%E5%90%89%E5%AE%89)
+- [萍乡](#%E8%90%8D%E4%B9%A1)
+- [赣州](#%E8%B5%A3%E5%B7%9E)
+- [上饶](#%E4%B8%8A%E9%A5%B6)
+- [太原](#%E5%A4%AA%E5%8E%9F)
+- [临汾](#%E4%B8%B4%E6%B1%BE)
+- [阳泉](#%E9%98%B3%E6%B3%89)
+- [长治](#%E9%95%BF%E6%B2%BB)
+- [大同](#%E5%A4%A7%E5%90%8C)
+- [晋城](#%E6%99%8B%E5%9F%8E)
+- [晋中](#%E6%99%8B%E4%B8%AD)
+- [运城](#%E8%BF%90%E5%9F%8E)
+- [西安](#%E8%A5%BF%E5%AE%89)
+- [包头](#%E5%8C%85%E5%A4%B4)
+- [蚌埠](#%E8%9A%8C%E5%9F%A0)
+- [亳州](#%E4%BA%B3%E5%B7%9E)
+- [芜湖](#%E8%8A%9C%E6%B9%96)
+- [巢湖](#%E5%B7%A2%E6%B9%96)
+- [淮北](#%E6%B7%AE%E5%8C%97)
+- [合肥](#%E5%90%88%E8%82%A5)
+- [安阳](#%E5%AE%89%E9%98%B3)
+- [郑州](#%E9%83%91%E5%B7%9E)
+- [新乡](#%E6%96%B0%E4%B9%A1)
+- [许昌](#%E8%AE%B8%E6%98%8C)
+- [廊坊](#%E5%BB%8A%E5%9D%8A)
+- [保定](#%E4%BF%9D%E5%AE%9A)
+- [唐山](#%E5%94%90%E5%B1%B1)
+- [洛阳](#%E6%B4%9B%E9%98%B3)
+- [信阳](#%E4%BF%A1%E9%98%B3)
+- [平顶山](#%E5%B9%B3%E9%A1%B6%E5%B1%B1)
+- [漯河](#%E6%BC%AF%E6%B2%B3)
+- [石家庄](#%E7%9F%B3%E5%AE%B6%E5%BA%84)
+- [邯郸](#%E9%82%AF%E9%83%B8)
+- [拉萨](#%E6%8B%89%E8%90%A8)
+- [银川](#%E9%93%B6%E5%B7%9D)
+- [兰州](#%E5%85%B0%E5%B7%9E)
+- [南宁](#%E5%8D%97%E5%AE%81)
+- [桂林](#%E6%A1%82%E6%9E%97)
+- [柳州](#%E6%9F%B3%E5%B7%9E)
+- [伊犁](#%E4%BC%8A%E7%8A%81)
+- [伊宁](#%E4%BC%8A%E5%AE%81)
+- [乌鲁木齐](#%E4%B9%8C%E9%B2%81%E6%9C%A8%E9%BD%90)
+- [海口](#%E6%B5%B7%E5%8F%A3)
+- [西宁](#%E8%A5%BF%E5%AE%81)
+- [衡阳](#%E8%A1%A1%E9%98%B3)
+- [武进](#%E6%AD%A6%E8%BF%9B)
+- [烟台](#%E7%83%9F%E5%8F%B0)
+- [扬州](#%E6%89%AC%E5%B7%9E)
+- [青岛](#%E9%9D%92%E5%B2%9B-1)
+- [资阳](#%E8%B5%84%E9%98%B3)
+- [泸州](#%E6%B3%B8%E5%B7%9E)
+- [南宁](#%E5%8D%97%E5%AE%81-1)
+  - [陈氏家族](#%E9%99%88%E6%B0%8F%E5%AE%B6%E6%97%8F)
+  - [詹氏家族](#%E8%A9%B9%E6%B0%8F%E5%AE%B6%E6%97%8F)
+  - [林氏家族](#%E6%9E%97%E6%B0%8F%E5%AE%B6%E6%97%8F)
+  - [黄氏家族](#%E9%BB%84%E6%B0%8F%E5%AE%B6%E6%97%8F)
+- [网站](#%E7%BD%91%E7%AB%99)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+[](hospital list begin //PLEASE DO NOT DELETE THIS LINE)
 ## 上海
 
 - 上海市闵行区中医院
-  - 电话 +86 21 5187 6888
-  - 网址 www.tcmmh.com
-- 上海华美美莱整形医院
-  - 电话 +86 21 5885 6655
-  - 网址 www.shhuamei.cn
+  - 电话	+86 21 5187 6888
+  - 网址	www.tcmmh.com
+  - 地址	上海市闵行区合川路3071号
+- 上海华美医疗美容医院
+  - 电话	+86 21 5885 6655
+  - 电话	+86 400 880 6580
+  - 网址	www.shhuamei.cn
+  - 地址	上海市市辖区浦东新区源深路155号
 - 上海万众医院
-  - 电话 +86 400 889 2218
-  - 网址 www.wz120.cc
-  - 证据 [患者家属](http://health.dahe.cn/yypj/yhb/201207/t20120716_397644.html) [Google缓存](http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fhealth.dahe.cn%2Fyypj%2Fyhb%2F201207%2Ft20120716_397644.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fhealth.dahe.cn%2Fyypj%2Fyhb%2F201207%2Ft20120716_397644.html&aqs=chrome..69i57j69i58.4789j0j4&sourceid=chrome&ie=UTF-8) [天涯网友](http://bbs.tianya.cn/post-41-943030-1.shtml) [Google缓存](http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-41-943030-1.shtml&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-41-943030-1.shtml&aqs=chrome..69i57j69i58.2551j0j4&sourceid=chrome&ie=UTF-8)
+  - 电话	+86 400 889 2218
+  - 网址	www.wz120.cc
+  - 地址	上海市徐汇区吴中路2号
+  - 证据	[患者家属](http://health.dahe.cn/yypj/yhb/201207/t20120716_397644.html) [Google缓存](http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fhealth.dahe.cn%2Fyypj%2Fyhb%2F201207%2Ft20120716_397644.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fhealth.dahe.cn%2Fyypj%2Fyhb%2F201207%2Ft20120716_397644.html&aqs=chrome..69i57j69i58.4789j0j4&sourceid=chrome&ie=UTF-8) [天涯网友](http://bbs.tianya.cn/post-41-943030-1.shtml) [Google缓存](http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-41-943030-1.shtml&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-41-943030-1.shtml&aqs=chrome..69i57j69i58.2551j0j4&sourceid=chrome&ie=UTF-8)
 - 上海安真医院
   - 电话 +86 21 5771 1006
+<<<<<<< HEAD
   - 证据 [天涯广告](http://bbs.tianya.cn/post-41-751455-1.shtml) [Google缓存](http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-41-751455-1.shtml&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-41-751455-1.shtml&aqs=chrome..69i57j69i58.2326j0j4&sourceid=chrome&ie=UTF-8)
   - 网址 2062.hos.zx7b.com
 - 上海福华医院
   - 电话 +86 21 5196 1999
   - 网址 2059.hos.zx7b.com
+=======
+  - 地址	上海市松江区人民南路39号
+  - 证据	[天涯广告](http://bbs.tianya.cn/post-41-751455-1.shtml) [Google缓存](http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-41-751455-1.shtml&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-41-751455-1.shtml&aqs=chrome..69i57j69i58.2326j0j4&sourceid=chrome&ie=UTF-8)
+- 上海福华医院
+  - 电话	+86 21 5196 1999
+  - 地址	上海市浦东新区惠南镇城南路98号
+>>>>>>> upstream/master
 - 上海玛丽女子医院
   - 电话 +86 21 6972 6299
-  - 网址 www.mary120.cn
-- 上海真爱女子医院
-  - 电话 +86 21 6226 9000
-  - 网址 www.shzhenai.com
-  - 证据 [患者1](http://www.kobeei.com/lc/31713.html) [Google缓存](http://webcache.googleusercontent.com/search?sourceid=chrome-psyapi2&ion=1&espv=2&ie=UTF-8&q=cache%3A%2F%2Fwww.kobeei.com%2Flc%2F31713.html&oq=cache%3A%2F%2Fwww.kobeei.com%2Flc%2F31713.html&rlz=1C5CHFA_enUS659US659&aqs=chrome..69i57j69i58.4678j0j4) 
-- 上海心脏病医院
-  - 电话 +86 21 6482 9999
-  - 网址 www.yodak.net
+  - 网址	http://www.mary120.cn/
+  - 网址	http://www.shmary.cn/
+  - 地址	上海市青浦区公园路380号
+- 上海真爱(整形美容)医院
+  - 电话	+86 21 6226 9000
+  - 网址	http://www.shzhenai.com/
+  - 证据 [患者1](http://www.kobeei.com/lc/31713.html) [Google缓存](http://webcache.googleusercontent.com/search?sourceid=chrome-psyapi2&ion=1&espv=2&ie=UTF-8&q=cache%3A%2F%2Fwww.kobeei.com%2Flc%2F31713.html&oq=cache%3A%2F%2Fwww.kobeei.com%2Flc%2F31713.html&rlz=1C5CHFA_enUS659US659&aqs=chrome..69i57j69i58.4678j0j4)
 - 上海沪申五官科医院
   - 电话 +86 21 5430 5338
   - 网址 www.hs5g.com
-- 上海远大心胸医院
-  - 电话 +86 21 6482 9999
-  - 网址 www.yodak.net
+- 上海远大心胸医院（号称上海心脏病医院）
+  - 电话	+86 21 6482 9999
+  - 网址	http://www.yodak.net/
+  - 地址	上海市徐汇区龙漕路218号
 - 上海仁爱医院
-  - 电话 +86 21 6468 8888
-  - 网址 www.renai.cn
+  - 电话	+86 21 6468 8888
+  - 网址	http://www.renai.cn/
+  - 地址	上海市徐汇区漕溪路133号（近万体馆）
 - 上海天大医疗美容医院
   - 电话 +86 21 6408 0808
   - 网址 www.tida.sh.cn
@@ -99,7 +267,7 @@
   - 电话 +86 21 6502 2556
   - 网址 www.cjhospital.com
 - 解放军411医院
-  - 电话 +86 400 0789 411
+  - 电话 +86 400 078 9411
   - 网址 www.sh411wgk.com
 - 上海阳光中医医院
 - 上海英港泌尿外科医院
@@ -142,10 +310,21 @@
 - 上海嘉华医院
 - 上海中骏医学科学研究所
 - 上海天伦医院（注：隶属上海明爱医疗集团）
-	- 电话	+86 21 6566 7633 
+	- 电话	+86 21 6566 7633
+	- 电话	+86 21 6525 9999
+	- 电话	+986 400 666 0102
+	- 电话	+86 21 5515 8829
 	- 网址	http://www.shtl120.com/
+	- 网址	http://www.sh-byby.org/
+	- 网址	http://www.shtlyy.com/
+	- 网址	http://www.shtianlun.org/
+	- 网址	http://www.tianlun100.com/
+	- 地址	上海市虹口区凉城路545号
 - 上海国正医院（注：隶属上海明爱医疗集团）
 	- 电话	+86  21 5800 9999
+	- 电话	+86	188 0185 6118
+	- 网址	http://23759.zhaopin.job120.com/
+	- 网址	http://shgzyy.cn.b2b168.com/
 	- 地址	上海市南汇区惠南镇人民西路99号
 
 ## 北京
@@ -166,10 +345,13 @@
   - 网址 wuzhouyiyuan.com
 - 北京圣保罗男子医院
 - 北京建国医院
+<<<<<<< HEAD
   - 网址 brand.lcxw.cn
   - 网址 nk.bjjgyy.com
 - 北京国际医疗中心
   - 网址 imcclinics.com
+=======
+>>>>>>> upstream/master
 - 北京天伦不孕不育医院
   - 网址 tlbaby.com
   - 网址 bj.tlbaby.com
@@ -188,6 +370,8 @@
   - 网址 bjjkw.net
 - 北京京北医院
 - 北京京顺医院
+  - 电话  +86 010 69423999
+  - 网址  http://www.bjjsyy.com/
 - 北京瑞京糖尿病医院
 - 北京众安康中医骨科
 - 北京麦瑞骨科医院
@@ -210,7 +394,7 @@
   - 电话 +86 512 6812 0120
   - 网址 www.szdwyy.com
 - 苏州华美美莱整形医院
-  - 电话 +86 400 8816 499
+  - 电话 +86 400 881 6499
   - 网址 www.mlmryy.com
 - 昆山虹桥医院
   - 电话 +86 512 5739 9999
@@ -262,8 +446,51 @@
   - 电话 +86 22 2827 8888
   - 网址 www.28278888.com
 - 天津长庚耳鼻喉医院
-  - 电话 +86 400 670 3120
+  - 电话 +86 400 6703 120
   - 网址 www.tjcg120.com
+- 天津阿波罗医院
+  - 电话 +86 022-28111999
+  - 网址 http://www.nkyy022.com/
+  - 地址 天津市南开区黄河道38号  
+- 天津美莱医学美容医院
+  - 电话 022-24239999
+  - 网址 null
+  - 地址 天津市河东区华昌道80-92号(裕阳大厦底商)
+
+- 天津254医院 部分科室 (注意是部分科室)
+  - 电话 022-26220266
+  - 地址 天津市河北区黄纬路60号
+  - 网址 http://www.yafrlaowuw.com/
+   ```
+医院别名：天津254医院、解放军254医院
+医院性质：公立/综合医院
+医院等级：三级甲等　　
+联系电话：022-26220266
+联系地址：天津市河北区黄纬路60号
+   ```
+- 解放军464医院 部分科室(部分男科吧)
+  - 电话 联系电话：4000220995
+  - 地址 天津市红旗南路600号
+  - 网址 null
+  ```
+医院别名：天津男科医院
+医院性质：公立/综合医院
+医院等级：三级甲等　　
+联系电话：4000220995
+联系地址：天津市红旗南路600号
+  ```
+- 解放军272医院 部分科室
+  - 电话 400-022-3272
+  - 地址 天津和平区多伦道185号
+  - 网址 null
+  ```
+医院别名：天津解放军第272医院
+医院性质：公立/综合医院
+医院等级：二级甲等
+联系电话：400-022-3272
+联系地址：天津和平区多伦道185号
+  ```
+
 
 ## 广州
 
@@ -360,7 +587,7 @@
   - 网址 dfmnyy.com
   - 网址 dgbenchuang.com
 - 东莞玛丽亚妇产医院
-	- 电话	0769-22993333
+	- 电话	+86 769 2299 3333
 	- 网址	http://www.dgmaria.cn/
 	- 地址	东莞南城莞太大道（广彩城酒店旁）
 
@@ -535,8 +762,6 @@
 - 曲靖九州医院
   - 网址 8965555.com
 - 曲靖曙光泌尿专科医院
-
-##
 
 ## 重庆
 
@@ -846,11 +1071,15 @@
 ## 龙岩
 
 - 龙岩女子医院
+<<<<<<< HEAD
   - 证据 [诚信网](http://xiaofeipinglun.com/yiyuanjiankang/5664.html) [Google缓存](http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fxiaofeipinglun.com%2Fyiyuanjiankang%2F5664.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fxiaofeipinglun.com%2Fyiyuanjiankang%2F5664.html&aqs=chrome..69i57j69i58.3136j0j4&sourceid=chrome&ie=UTF-8) 
   - 网址 0597fk.comindex.html
   - 网址 lyfcyy.cn
   - 网址 lyfcyy.comhtmlGynecology.html
   - 网址 lynzyy.com
+=======
+  - 证据 [诚信网](http://xiaofeipinglun.com/yiyuanjiankang/5664.html) [Google缓存](http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fxiaofeipinglun.com%2Fyiyuanjiankang%2F5664.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fxiaofeipinglun.com%2Fyiyuanjiankang%2F5664.html&aqs=chrome..69i57j69i58.3136j0j4&sourceid=chrome&ie=UTF-8)
+>>>>>>> upstream/master
 - 龙岩阳光医院
   - 网址 0597xyg.com
   - 网址 xygnk.comindex.html
@@ -1062,7 +1291,7 @@
 ## 大连
 
 - 大连长城妇科医院
-  - 电话 400 0078 120
+  - 电话 400 007 8120
   - 网址 www.39568888.com
 - 大连新世纪医院
   - 电话 411 8650 6565
@@ -1183,13 +1412,13 @@
 
 ## 启东
 - 启东市中医院
-	- 电话	+86  513 8321 2540 
+	- 电话	+86  513 8321 2540
 	- 网址	http://www.qdszyy.com/
 	- 地址	江苏省启东市紫薇中路458号
 
 ## 武汉
 
-### 不孕症：
+### 不孕症
 
 - 武汉送子鸟不孕不育医院
   - 电话 +86 27 8377 1313
@@ -1198,7 +1427,7 @@
   - 电话 +86 400 996 1009
   - 网址 www.ctbyw.com
 
-### 妇科、产科：
+### 妇科/产科
 
 - 武汉现代妇产医院
   - 电话 +86 27 6883 6686
@@ -1220,7 +1449,7 @@
   - 网址 www.87189999.com
 - 武汉友好医院
 
-### 男科：
+### 男科
 
 - 武汉阿波罗男科医院
   - 电话 +86 27 8588 8669
@@ -1264,7 +1493,7 @@
   - 电话 +86 27 8808 9120
   - 网址 www.hqsmk.com
 
-### 整形科：
+### 整形科
 
 - 武汉华美整形医院
   - 电话 +86 400 007 0606
@@ -1285,7 +1514,7 @@
   - 电话 +86 27 88855999
   - 网址 www.39bsw.com
 - 武汉仁安眼耳鼻喉医院
-  - 电话 +86 4006 027 669
+  - 电话 +86 400 602 7669
   - 网址 www.whrenan.com
 - 武汉京都结石病医院
   - 电话 +86 27 88616718
@@ -1298,7 +1527,7 @@
   - 电话 +86 27 8758 5666
   - 网址 www.whmdgc.com
 
-### 三甲医院外包科室名单如下：
+### 三甲医院外包科室名单如下
 
 - 广州军区武汉总医院（生殖中心、肿瘤科、整形）
 - 武汉八医院（肛肠科）
@@ -1355,7 +1584,7 @@
 - 贵阳和美妇产医院
   - 网址 f.gyhemei.com
 - 贵州省第二人民医院耳鼻喉科(贵阳耳鼻喉科医院)
-  - 电话 400-0851-962
+  - 电话 +86 400 085 1962
   - 网址 www.o-wei.com
   - 网址 www.ygzhu8.com
 - 贵阳结石病医院
@@ -1429,7 +1658,7 @@
 
 - 南昌市第五医院
   - 地址 江西省南昌市青云谱区井冈山大道239号（家乐福超市对面）
-  - 电话 +86 4001 606 199
+  - 电话 +86 400 160 6199
   - 电话 +86 791 8665 8901
   - 网址 http://www.wy120.com
   - 微信公众号 ncdwrmyy
@@ -1450,7 +1679,7 @@
   - 微信公众号 nccharm
 - 南昌华山不孕不育医院
   - 地址 江西省南昌市迎宾北大道285号
-  - 电话 +86 400 6013 130
+  - 电话 +86 400 601 3130
   - 电话 +86 791 8665 8913
   - 电话 +86 185 0700 5120
   - 网址 http://www.hsbyby.cn
@@ -1676,7 +1905,8 @@
 - 合肥丽人美容医院
 - 合肥丽人妇科医院
 	- 电话	+86 551 6365 3311
-	- 网址	http://www.lr120.com/
+	- 网址	http://www.lr120.com/	http://3612999.com/		
+	- 地址	安徽省合肥市包河区屯溪路349号
 - 合肥喜得儿孕育医院
 - 合肥当代中西药医院
 - 合肥博大泌尿专科医院
@@ -1697,8 +1927,9 @@
 - 合肥华美整形医院
 - 合肥名人眼科医院
 - 合肥新视界眼科医院
-	- 电话	+86 400 6651 616
+	- 电话	+86 400 665 1616
 	- 网址	http://www.hfneweye.com/
+	- 地址	合肥包河区徽州大道689号（徽州大道与九华山路交口往南300米）
 - 合肥普瑞眼科医院
 
 ## 安阳
@@ -1736,9 +1967,19 @@
 - 许昌新时代妇科医院
 - 许昌凤凰医院
 - 许昌中山医院
+<<<<<<< HEAD
   - 网址 xczsfk.com
   - 网址 xczshp.com
   - 网址 2158888.com
+=======
+  - 网址 www.xczshp.com
+  - 网址 www.xcyyhp.com
+  - 网址 www.2158888.com
+  - 网址 www.xczsnk.com
+  - 网址 xczsnk.com
+  - 地址 许昌市西大街280号
+  - 电话 0374-215 8889
+>>>>>>> upstream/master
 
 ## 廊坊
 
@@ -1958,3 +2199,5 @@
 - 中华不育网
 - 广州人流网
 - 中华肿瘤网
+
+[](hospital list end //PLEASE DO NOT DELETE THIS LINE)
