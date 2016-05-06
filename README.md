@@ -17,10 +17,10 @@
 4. @fushenghua 也开源了一个查询的 https://github.com/fushenghua/GetHosp/ 的项目
 5. 为什么不推荐做原生的APP，比如说Android的APK包，因为要验证一个APK包是否很麻烦，现在的功能只是一个简单的查询功能，网页查询很轻松的满足了，验证一个APK包，权限是不是有问题，比如说要通讯录的权限等等的，还要抓包检查是否有收集用户信息等（比如说原生的APK做一个功能，用户第三次打开的时候，才去收集用户的手机信息，这个就很难发现,也没有这个精力去搞这个）,所以这里不推荐做原生的APP
 6. 三个浏览器插件[@erichuang199](https://github.com/erichuang1994/PTXNotification)和[@zhangjh](https://github.com/zhangjh/chromeExt)和[@hustcc](https://github.com/hustcc/PTHospital.chrome)
-7. @TeamDolphin 提供了一个在搜索引擎中屏蔽结果的插件 https://github.com/TeamDolphin/BlackheartedHospital
-8. 本文章收录的信息均来自互联网，仅为资源共享、学习参考之目的。作者对信息的可用性、准确性或可靠性不作任何承诺与保证
-9. 如果您对信息有任何异议，请第一时间联系我们(hospitalforreview@gmail.com)。情况属实的，我们会第一时间予以删除，并同时向您表示歉意。
-10. 本项目收录的“证据”，同样来自于互联网，也可能存在不实的问题。如果您对这些证据有疑问或异议，也请及时与我们联系，或者直接通过提交issue表示。
+7. @TeamDolphin 提供了第三方查询莆田医院的接口 https://github.com/TeamDolphin/BlackheartedHospital
+7. 本文章收录的信息均来自互联网，仅为资源共享、学习参考之目的。作者对信息的可用性、准确性或可靠性不作任何承诺与保证
+8. 如果您对信息有任何异议，请第一时间联系我们(hospitalforreview@gmail.com)。情况属实的，我们会第一时间予以删除，并同时向您表示歉意。
+9. 本项目收录的“证据”，同样来自于互联网，也可能存在不实的问题。如果您对这些证据有疑问或异议，也请及时与我们联系，或者直接通过提交issue表示。
 
 # 版本1.2beta
 
@@ -95,13 +95,13 @@
 - [南通](#%E5%8D%97%E9%80%9A)
 - [启东](#%E5%90%AF%E4%B8%9C)
 - [武汉](#%E6%AD%A6%E6%B1%89)
-  - [不孕症](#%E4%B8%8D%E5%AD%95%E7%97%87)
-  - [妇科/产科](#%E5%A6%87%E7%A7%91%E4%BA%A7%E7%A7%91)
-  - [男科](#%E7%94%B7%E7%A7%91)
+  - [不孕症：](#%E4%B8%8D%E5%AD%95%E7%97%87%EF%BC%9A)
+  - [妇科、产科：](#%E5%A6%87%E7%A7%91%E3%80%81%E4%BA%A7%E7%A7%91%EF%BC%9A)
+  - [男科：](#%E7%94%B7%E7%A7%91%EF%BC%9A)
   - [综合医院](#%E7%BB%BC%E5%90%88%E5%8C%BB%E9%99%A2)
-  - [整形科](#%E6%95%B4%E5%BD%A2%E7%A7%91)
+  - [整形科：](#%E6%95%B4%E5%BD%A2%E7%A7%91%EF%BC%9A)
   - [专科](#%E4%B8%93%E7%A7%91)
-  - [三甲医院外包科室名单如下](#%E4%B8%89%E7%94%B2%E5%8C%BB%E9%99%A2%E5%A4%96%E5%8C%85%E7%A7%91%E5%AE%A4%E5%90%8D%E5%8D%95%E5%A6%82%E4%B8%8B)
+  - [三甲医院外包科室名单如下：](#%E4%B8%89%E7%94%B2%E5%8C%BB%E9%99%A2%E5%A4%96%E5%8C%85%E7%A7%91%E5%AE%A4%E5%90%8D%E5%8D%95%E5%A6%82%E4%B8%8B%EF%BC%9A)
 - [荆州](#%E8%8D%86%E5%B7%9E)
 - [黄冈](#%E9%BB%84%E5%86%88)
 - [黄石](#%E9%BB%84%E7%9F%B3)
@@ -196,20 +196,14 @@
   - 地址	上海市徐汇区吴中路2号
   - 证据	[患者家属](http://health.dahe.cn/yypj/yhb/201207/t20120716_397644.html) [Google缓存](http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fhealth.dahe.cn%2Fyypj%2Fyhb%2F201207%2Ft20120716_397644.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fhealth.dahe.cn%2Fyypj%2Fyhb%2F201207%2Ft20120716_397644.html&aqs=chrome..69i57j69i58.4789j0j4&sourceid=chrome&ie=UTF-8) [天涯网友](http://bbs.tianya.cn/post-41-943030-1.shtml) [Google缓存](http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-41-943030-1.shtml&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-41-943030-1.shtml&aqs=chrome..69i57j69i58.2551j0j4&sourceid=chrome&ie=UTF-8)
 - 上海安真医院
-  - 电话 +86 21 5771 1006
-<<<<<<< HEAD
-  - 证据 [天涯广告](http://bbs.tianya.cn/post-41-751455-1.shtml) [Google缓存](http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-41-751455-1.shtml&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-41-751455-1.shtml&aqs=chrome..69i57j69i58.2326j0j4&sourceid=chrome&ie=UTF-8)
-  - 网址 2062.hos.zx7b.com
-- 上海福华医院
-  - 电话 +86 21 5196 1999
-  - 网址 2059.hos.zx7b.com
-=======
+  - 电话        +86 21 5771 1006
+  - 网址        2062.hos.zx7b.com
   - 地址	上海市松江区人民南路39号
   - 证据	[天涯广告](http://bbs.tianya.cn/post-41-751455-1.shtml) [Google缓存](http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-41-751455-1.shtml&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-41-751455-1.shtml&aqs=chrome..69i57j69i58.2326j0j4&sourceid=chrome&ie=UTF-8)
 - 上海福华医院
   - 电话	+86 21 5196 1999
+  - 网址        2059.hos.zx7b.com
   - 地址	上海市浦东新区惠南镇城南路98号
->>>>>>> upstream/master
 - 上海玛丽女子医院
   - 电话 +86 21 6972 6299
   - 网址	http://www.mary120.cn/
@@ -230,6 +224,7 @@
   - 电话	+86 21 6468 8888
   - 网址	http://www.renai.cn/
   - 地址	上海市徐汇区漕溪路133号（近万体馆）
+  - 网址 renai.cn
 - 上海天大医疗美容医院
   - 电话 +86 21 6408 0808
   - 网址 www.tida.sh.cn
@@ -345,13 +340,10 @@
   - 网址 wuzhouyiyuan.com
 - 北京圣保罗男子医院
 - 北京建国医院
-<<<<<<< HEAD
   - 网址 brand.lcxw.cn
   - 网址 nk.bjjgyy.com
 - 北京国际医疗中心
   - 网址 imcclinics.com
-=======
->>>>>>> upstream/master
 - 北京天伦不孕不育医院
   - 网址 tlbaby.com
   - 网址 bj.tlbaby.com
@@ -1071,15 +1063,11 @@
 ## 龙岩
 
 - 龙岩女子医院
-<<<<<<< HEAD
-  - 证据 [诚信网](http://xiaofeipinglun.com/yiyuanjiankang/5664.html) [Google缓存](http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fxiaofeipinglun.com%2Fyiyuanjiankang%2F5664.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fxiaofeipinglun.com%2Fyiyuanjiankang%2F5664.html&aqs=chrome..69i57j69i58.3136j0j4&sourceid=chrome&ie=UTF-8) 
+  - 证据 [诚信网](http://xiaofeipinglun.com/yiyuanjiankang/5664.html) [Google缓存](http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fxiaofeipinglun.com%2Fyiyuanjiankang%2F5664.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fxiaofeipinglun.com%2Fyiyuanjiankang%2F5664.html&aqs=chrome..69i57j69i58.3136j0j4&sourceid=chrome&ie=UTF-8)
   - 网址 0597fk.comindex.html
   - 网址 lyfcyy.cn
   - 网址 lyfcyy.comhtmlGynecology.html
   - 网址 lynzyy.com
-=======
-  - 证据 [诚信网](http://xiaofeipinglun.com/yiyuanjiankang/5664.html) [Google缓存](http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fxiaofeipinglun.com%2Fyiyuanjiankang%2F5664.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fxiaofeipinglun.com%2Fyiyuanjiankang%2F5664.html&aqs=chrome..69i57j69i58.3136j0j4&sourceid=chrome&ie=UTF-8)
->>>>>>> upstream/master
 - 龙岩阳光医院
   - 网址 0597xyg.com
   - 网址 xygnk.comindex.html
@@ -1418,7 +1406,7 @@
 
 ## 武汉
 
-### 不孕症
+### 不孕症：
 
 - 武汉送子鸟不孕不育医院
   - 电话 +86 27 8377 1313
@@ -1427,7 +1415,7 @@
   - 电话 +86 400 996 1009
   - 网址 www.ctbyw.com
 
-### 妇科/产科
+### 妇科、产科：
 
 - 武汉现代妇产医院
   - 电话 +86 27 6883 6686
@@ -1449,7 +1437,7 @@
   - 网址 www.87189999.com
 - 武汉友好医院
 
-### 男科
+### 男科：
 
 - 武汉阿波罗男科医院
   - 电话 +86 27 8588 8669
@@ -1493,7 +1481,7 @@
   - 电话 +86 27 8808 9120
   - 网址 www.hqsmk.com
 
-### 整形科
+### 整形科：
 
 - 武汉华美整形医院
   - 电话 +86 400 007 0606
@@ -1527,7 +1515,7 @@
   - 电话 +86 27 8758 5666
   - 网址 www.whmdgc.com
 
-### 三甲医院外包科室名单如下
+### 三甲医院外包科室名单如下：
 
 - 广州军区武汉总医院（生殖中心、肿瘤科、整形）
 - 武汉八医院（肛肠科）
@@ -1967,11 +1955,6 @@
 - 许昌新时代妇科医院
 - 许昌凤凰医院
 - 许昌中山医院
-<<<<<<< HEAD
-  - 网址 xczsfk.com
-  - 网址 xczshp.com
-  - 网址 2158888.com
-=======
   - 网址 www.xczshp.com
   - 网址 www.xcyyhp.com
   - 网址 www.2158888.com
@@ -1979,7 +1962,6 @@
   - 网址 xczsnk.com
   - 地址 许昌市西大街280号
   - 电话 0374-215 8889
->>>>>>> upstream/master
 
 ## 廊坊
 
